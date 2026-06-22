@@ -1,0 +1,6 @@
+{
+  "name": "Directorio Comercial",
+  "description": "Directorio comercial moderno con persistencia de datos local y sincronización con la nube LOPII.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
